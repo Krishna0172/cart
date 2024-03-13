@@ -4,8 +4,8 @@ const UserDetails = () => {
     return (
         <>
       <h1>User Details</h1>
-        <li>hello</li>
-
+        <h3>User Name</h3>
+        <h3>AGE</h3>
     </>
   )
 }
